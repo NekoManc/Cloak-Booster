@@ -11,4 +11,4 @@ Features:
 3. Temporary disablement of background applications for increased system resources
 4. Compatibility with popular games and systems.
 
-PS: This tool works better with computers with High End CPU's
+PS: This tool works better with computers with Higher End CPU's
