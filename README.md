@@ -1,5 +1,4 @@
 # Cloak-Injector
-# 📥[Download Now]()
 
 This program will help you maximize your fps for supported games.
 
